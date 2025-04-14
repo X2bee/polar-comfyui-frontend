@@ -4,10 +4,13 @@ on:
   push:
     branches:
       - main
-
+    paths:
+      - 'package.json'
+      - 'src/**'
+      - 'dist/**'
 permissions:
   contents: write
-  
+
 jobs:
   build:
     runs-on: ubuntu-latest
