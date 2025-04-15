@@ -1,11 +1,11 @@
 {
-  "name": "@comfyorg/comfyui-frontend",
+  "name": "@x2bee/polar-comfyui-frontend",
   "private": true,
-  "version": "0.0.2",
+  "version": "0.0.3",
   "type": "module",
-  "repository": "https://github.com/Comfy-Org/ComfyUI_frontend",
-  "homepage": "https://comfy.org",
-  "description": "Official front-end implementation of ComfyUI",
+  "repository": "https://github.com/X2bee/polar-comfyui-frontend",
+  "homepage": "https://polarops.x2bee.com",
+  "description": "ComfyUI Forked Version for PolarOps.",
   "license": "GPL-3.0-only",
   "scripts": {
     "dev": "vite",
